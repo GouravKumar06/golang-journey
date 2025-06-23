@@ -1,4 +1,6 @@
 
+// arrays size is fix so we can't add or remove elements
+
 package main
 
 import "fmt"
